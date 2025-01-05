@@ -1,77 +1,49 @@
-Here's a stylish and easy-to-understand `README.md` template for your project, including instructions for running both the backend and frontend. You can customize it further as needed.
+# 🌟 Proyek UAS-PEMSIK_F
 
-```markdown
-# 🌟 UAS-PEMSIK_F Project
+Selamat datang di proyek UAS-PEMSIK_F! Repositori ini berisi komponen backend dan frontend dari aplikasi. Ikuti instruksi di bawah ini untuk memulai.
 
-Welcome to the UAS-PEMSIK_F project! This repository contains both the backend and frontend components of the application. Follow the instructions below to get started.
+## 📦 Daftar Isi
+- [Memulai](#memulai)
+- [Pengaturan Backend](#pengaturan-backend)
+- [Pengaturan Frontend](#pengaturan-frontend)
+- [Ikon](#ikon)
 
-## 📦 Table of Contents
-- [Getting Started](#getting-started)
-- [Backend Setup](#backend-setup)
-- [Frontend Setup](#frontend-setup)
-- [Icons](#icons)
+## 🚀 Memulai
 
-## 🚀 Getting Started
-
-To run this project, you'll need to set up both the backend and frontend. Make sure you have the necessary tools installed:
+Untuk menjalankan proyek ini, Anda perlu menyiapkan backend dan frontend. Pastikan Anda telah menginstal alat yang diperlukan:
 
 - [Go](https://golang.org/dl/)
 - [Node.js](https://nodejs.org/)
 
-## 🖥️ Backend Setup
+## 🖥️ Pengaturan Backend
 
-1. **Navigate to the Backend Directory:**
+1. **Navigasi ke Direktori Backend:**
    ```bash
    cd be
    ```
 
-2. **Run the Backend Server:**
+2. **Jalankan Server Backend:**
    ```bash
    go run main.go
    ```
 
-   Your backend server should now be running!
+   Server backend Anda sekarang seharusnya sudah berjalan!
 
-## 🌐 Frontend Setup
+## 🌐 Pengaturan Frontend
 
-1. **Navigate to the Frontend Directory:**
+1. **Navigasi ke Direktori Frontend:**
    ```bash
    cd fe
    ```
 
-2. **Install Dependencies:**
+2. **Instal Dependensi:**
    ```bash
    npm install
    ```
 
-3. **Run the Frontend Development Server:**
+3. **Jalankan Server Pengembangan Frontend:**
    ```bash
    npm run dev
    ```
 
-   Your frontend application should now be accessible in your browser!
-
-## 🎨 Icons
-
-Feel free to use the following icons to enhance your project:
-
-- 🌟 - Star
-- 📦 - Package
-- 🚀 - Rocket
-- 🖥️ - Computer
-- 🌐 - Globe
-- 🎨 - Art
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! If you have any questions, feel free to reach out. 😊
-```
-
-### Notes:
-- You can add more sections as needed, such as "Contributing" or "Features."
-- Make sure to replace any placeholder text with actual information relevant to your project.
-- You can also add images or badges to make it more visually appealing.
+   Aplikasi frontend Anda sekarang seharusnya dapat diakses di browser!
